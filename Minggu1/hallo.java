@@ -1,1 +1,1 @@
-hallo
+System.out.printIn ("Aku");
